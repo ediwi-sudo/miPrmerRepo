@@ -1,0 +1,15 @@
+/workspaces/miPrmerRepo/proyecto1/nuevacarpeta/bin/Debug/net8.0/nuevacarpeta
+/workspaces/miPrmerRepo/proyecto1/nuevacarpeta/bin/Debug/net8.0/nuevacarpeta.deps.json
+/workspaces/miPrmerRepo/proyecto1/nuevacarpeta/bin/Debug/net8.0/nuevacarpeta.runtimeconfig.json
+/workspaces/miPrmerRepo/proyecto1/nuevacarpeta/bin/Debug/net8.0/nuevacarpeta.dll
+/workspaces/miPrmerRepo/proyecto1/nuevacarpeta/bin/Debug/net8.0/nuevacarpeta.pdb
+/workspaces/miPrmerRepo/proyecto1/nuevacarpeta/obj/Debug/net8.0/nuevacarpeta.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/miPrmerRepo/proyecto1/nuevacarpeta/obj/Debug/net8.0/nuevacarpeta.AssemblyInfoInputs.cache
+/workspaces/miPrmerRepo/proyecto1/nuevacarpeta/obj/Debug/net8.0/nuevacarpeta.AssemblyInfo.cs
+/workspaces/miPrmerRepo/proyecto1/nuevacarpeta/obj/Debug/net8.0/nuevacarpeta.csproj.CoreCompileInputs.cache
+/workspaces/miPrmerRepo/proyecto1/nuevacarpeta/obj/Debug/net8.0/nuevacarpeta.sourcelink.json
+/workspaces/miPrmerRepo/proyecto1/nuevacarpeta/obj/Debug/net8.0/nuevacarpeta.dll
+/workspaces/miPrmerRepo/proyecto1/nuevacarpeta/obj/Debug/net8.0/refint/nuevacarpeta.dll
+/workspaces/miPrmerRepo/proyecto1/nuevacarpeta/obj/Debug/net8.0/nuevacarpeta.pdb
+/workspaces/miPrmerRepo/proyecto1/nuevacarpeta/obj/Debug/net8.0/nuevacarpeta.genruntimeconfig.cache
+/workspaces/miPrmerRepo/proyecto1/nuevacarpeta/obj/Debug/net8.0/ref/nuevacarpeta.dll
